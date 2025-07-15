@@ -1,3 +1,4 @@
+"""Модуль настроек settings."""
 import os
 from pathlib import Path
 
